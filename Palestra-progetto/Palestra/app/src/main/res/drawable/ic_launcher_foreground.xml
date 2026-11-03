@@ -1,0 +1,7 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- manubrio stilizzato -->
+    <path android:fillColor="#FFFFBE0B"
+        android:pathData="M30,40h8v28h-8zM40,34h8v40h-8zM60,34h8v40h-8zM70,40h8v28h-8zM48,50h12v8H48zM24,48h6v12h-6zM78,48h6v12h-6z"/>
+</vector>
